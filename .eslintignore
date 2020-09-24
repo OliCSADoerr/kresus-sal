@@ -1,0 +1,10 @@
+# node_modules ignored by default
+
+# ignore files compiled
+build/
+
+# ignore locales
+shared/locales
+
+# ignore kresus binary
+bin/kresus.js
